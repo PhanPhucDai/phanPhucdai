@@ -17,5 +17,5 @@
 
 ### 🚀 Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Backend&theme=tokyonight)](https://github.com/PhanPhucDai/WebBanSach_Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Fronend&theme=tokyonight)](https://github.com/PhanPhucDai/WebBanSach_Fronend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Fronend&theme=merko)](https://github.com/PhanPhucDai/WebBanSach_Fronend)
 
