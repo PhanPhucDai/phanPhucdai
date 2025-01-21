@@ -16,6 +16,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanPhucDai&layout=compact&theme=tokyonight)
 
 ### 🚀 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Backend&theme=tokyonight)](https://github.com/PhanPhucDai/WebBanSach_Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Fronend&theme=merko)](https://github.com/PhanPhucDai/WebBanSach_Fronend)
+
 
