@@ -16,7 +16,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhanPhucDai&layout=compact&theme=tokyonight)
 
 ### 🚀 Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=PhanPhucDai/WebBanSach_Backend)](https://github.com/PhanPhucDai/WebBanSach_Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=PhanPhucDai/WebBanSach_Fronend)](https://github.com/PhanPhucDai/WebBanSach_Fronend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=PhanPhucDai/ONLY_Cook)](https://github.com/PhanPhucDai/ONLY_Cook)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=PhanPhucDai/Du_an_phat_trien_giao_dien)](https://github.com/PhanPhucDai/Du_an_phat_trien_giao_dien)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Backend&show_icons=true&theme=radical)](https://github.com/PhanPhucDai/WebBanSach_Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=WebBanSach_Fronend&show_icons=true&theme=merko)](https://github.com/PhanPhucDai/WebBanSach_Fronend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=ONLY_Cook&show_icons=true&theme=gruvbox)](https://github.com/PhanPhucDai/ONLY_Cook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=Du_an_phat_trien_giao_dien&show_icons=true&theme=highcontrast)](https://github.com/PhanPhucDai/Du_an_phat_trien_giao_dien)
+
