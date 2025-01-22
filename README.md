@@ -52,7 +52,8 @@ Tôi luôn không ngừng cải thiện kỹ năng của mình trong:
 ---
 
 ## 💬 **Liên hệ với tôi**
-- 📧 Email: [dai582005@gmail.com](mailto:dai582005@gmail.com)  
+- 📧 Email: [dai582005@gmail.com](mailto:dai582005@gmail.com)
+- 🌐 Facebook: [Facebook](https://www.facebook.com/?locale=vi_VN)  
 - 🌐 Number: 0379917903  
   
 
