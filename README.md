@@ -6,10 +6,10 @@
 
 ## 🌟 **Về tôi**
 - 🖌️ **Frontend**: HTML, CSS 
-- ⚙️ **Backend**: Java Core, JavaScript
+- ⚙️ **Backend**: Java, JavaScript
 - :small_orange_diamond:**Framework**: Spring, Spring Security, Vue, React
 - :file_cabinet: **Database**: MySQL, SQL Server.
-- 🔧 **Công cụ khác**: Thymeleaf, JSTL  
+- 🔧 **Công cụ khác**: Thymeleaf, JSTL, Git, Github, Postman 
 
 💻 Tôi cũng đã thực hiện một số dự án nổi bật. Bạn có thể xem chi tiết bên dưới!  
 
