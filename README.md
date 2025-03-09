@@ -39,6 +39,9 @@
   <a href="https://github.com/PhanPhucDai/Du_an_phat_trien_giao_dien">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=Du_an_phat_trien_giao_dien&theme=highcontrast" alt="Du_an_phat_trien_giao_dien"/>
   </a>
+  <a href="https://github.com/PhanPhucDai/Web_Watch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhanPhucDai&repo=Web_Watch&theme=highcontrast" alt="Web_Watch"/>
+  </a>
 </div>
 
 ---
