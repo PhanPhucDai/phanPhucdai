@@ -7,9 +7,9 @@
 ## 🌟 **Về tôi**
 - 🖌️ **Frontend**: HTML, CSS 
 - ⚙️ **Backend**: Java, JavaScript
-- :small_orange_diamond:**Framework**: Spring, Spring Security, Vue, React
+- :small_orange_diamond:**Framework**: Spring, Spring Security, Vue, React, Swagger, Material UI, Formik
 - :file_cabinet: **Database**: MySQL, SQL Server.
-- 🔧 **Công cụ khác**: Thymeleaf, JSTL, Git, Github, Postman 
+- 🔧 **Công cụ khác**: Thymeleaf, JSTL, Git, Github, Postman, Docker.
 
 💻 Tôi cũng đã thực hiện một số dự án nổi bật. Bạn có thể xem chi tiết bên dưới!  
 
